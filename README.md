@@ -1,1 +1,1 @@
-# sql_practice
+# SQL refresher and web hosted Db
